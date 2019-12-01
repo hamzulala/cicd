@@ -20,7 +20,7 @@ namespace Tests
         public void DefaultGetInfoTest()
         {
             Room r1 = new Room();
-            Assert.AreEqual("TD224 - 21", r1.getInfo());
+            Assert.AreEqual("TD224 - 22", r1.getInfo());
         }
 
         [TestCase(315, "TB", 10)]
