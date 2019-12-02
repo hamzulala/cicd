@@ -22,7 +22,7 @@ namespace Tests
             Room r1 = new Room();
             Assert.AreEqual("TD224 - 22", r1.getInfo());
         }
-
+        //lol
         [TestCase(315, "TB", 10)]
         [TestCase(305, "TD", 25)]
         [TestCase(315, "TB", 10)]
